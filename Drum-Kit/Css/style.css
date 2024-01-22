@@ -1,0 +1,18 @@
+body{
+    
+    background-image: url("/image/drum.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: black;
+    background-size: 650px 500px;
+
+    
+}
+
+.position{
+    position: fixed;
+    bottom: 40px;
+    right: 550px;
+    width: 400px;
+}
